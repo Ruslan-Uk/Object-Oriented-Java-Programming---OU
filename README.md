@@ -1,2 +1,2 @@
-# Object-Oriented Java Programming - OU
+# First step towards mastering Java
 Open University projects
