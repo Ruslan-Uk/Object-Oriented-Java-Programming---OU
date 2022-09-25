@@ -1,2 +1,2 @@
-# JAVA_OU_Portfolio
+# Object-Oriented Java Programming - OU
 Open University projects
